@@ -1,2 +1,2 @@
-# ALX SWE Printf project
-## This is a group grouo project
+# ALX Software Engineering Printf project
+## This is a group project
