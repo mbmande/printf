@@ -10,7 +10,7 @@ int print_d(va_list arges)
 {
 	int o = va_arg(arges, int);
 	int number, dig, lst = o % 10, ex = 1;
-	int i = 0;
+	int i = 1;
 
 	o = o / 10;
 	number = o;
@@ -57,7 +57,7 @@ int print_i(va_list arges)
 	int o = va_arg(arges, int);
 
 	int number, dig, lst = o % 10, ex = 1;
-	int i = 0;
+	int i = 1;
 
 	o = o / 10;
 	number = o;
