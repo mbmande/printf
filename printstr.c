@@ -1,5 +1,11 @@
 #include "main.h"
 
+/**
+ * _strlen - it finds the lenght of a string
+ * @str: the parameter
+ * Return: i
+ */
+
 int _strlen(char *str)
 {
 	int i;
@@ -8,6 +14,12 @@ int _strlen(char *str)
 		;
 	return (i);
 }
+
+/**
+ * _strlenc - it finds the const lenght of a string
+ * @str: parameter
+ * Return: i
+ */
 
 int _strlenc(const char *str)
 {
