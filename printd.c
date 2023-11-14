@@ -1,8 +1,8 @@
 #include "main.h"
 
 /**
- * print_d - it prints integers
- * @arges: what to be printed
+ * print_d - it prints integer
+ * @arges: argument parameter
  * Return: i
  */
 
@@ -47,8 +47,8 @@ int print_d(va_list arges)
 }
 
 /**
- * print_i - it prints integer detect the base automatically
- * @arges: what to print
+ * print_i - it prints the integers detects the base automatically
+ * @arges: argument parameter
  * Return: i
  */
 
